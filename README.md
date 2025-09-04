@@ -27,10 +27,6 @@ keyword and store them locally in an organized folder structure.
 -   `os`
 -   `shutil`
 -   `urllib`
--   `selenium` *(if included)*
+-   `selenium`
 
 
-
--   **Your Name**\
--   GitHub: [your-username](https://github.com/your-username)\
--   LinkedIn: [your-link](https://linkedin.com/in/your-profile)
